@@ -7,3 +7,5 @@ Albert Einstein war ein deutscher Physiker mit Schweizer und US-amerikanischer S
 * Nationalität Deutsch mit Pass der Schweiz und der USA
 * Relativitätstheorie
 * weltweit bekanntester Wissenschaftler der Neuzeit.
+
+> Phantasie ist wichtiger als Wissen.
